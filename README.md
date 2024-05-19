@@ -9,7 +9,7 @@ This is something I just made in my free time to help with my prep time as I DM 
 - Swap button will swap which side of the screen the modal is on (I tried making it draggable, but it turned into a mess so I just settled with this for now)
 - After enter key is pressed [rollable] code is automatically generated and copied to the clipboard.
 
-###Inputs
+#### Inputs
 3 form inputs for:
 - Dice Notation ex: 4d10
 - Roll Action ex: Slam
