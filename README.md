@@ -3,6 +3,8 @@ Generates roll notation code for DnD Beyond's [rollable] syntax
 
 This is something I just made in my free time to help with my prep time as I DM a campaign for my wife and children. If you have any suggestions to improve it, please create a PR. Once it's been tested out thoroughly I plan to turn it into a Chrome extension. This current version only generates [rollable] code for damage rolls, but it could be easily updated to include attack rolls as well, I just don't intend to use it for that purpose and haven't added that feature yet.
 
+**Note:** Code is currently a mess. I'll clean it up when have time. Just had to get it working so that I could use this tool to prep for the next bit of our campaign. Please don't judge me.
+
 ![ezgif-6-5b0bc6f79b](https://github.com/jarrodwhitley/roll-notation-generator/assets/11711674/e96fc3ea-cadf-4d51-a370-6d774700d38b)
 
 ### Features
